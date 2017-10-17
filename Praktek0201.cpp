@@ -6,6 +6,6 @@ int main(){
 	int nilai;
 	int 1Nilai;
 	
-	cout << nilai;
+	Cout << nilai;
 	cout << 1Nilai;
 }
